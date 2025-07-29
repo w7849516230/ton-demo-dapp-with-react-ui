@@ -1,4 +1,4 @@
-# Demo dapp with @tonconnect/ui-react
+# Test Demo dapp with @tonconnect/ui-react
 
 Try it out https://ton-connect.github.io/demo-dapp-with-react-ui/
 
