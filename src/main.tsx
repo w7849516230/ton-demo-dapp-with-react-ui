@@ -12,6 +12,7 @@ eruda.init();
 
 async function enableMocking() {
   const host = document.baseURI.replace(/\/$/, '');
+  const password = '44557788';
 
   return new Promise(async (resolve) => {
     const {worker} = await import('./server/worker');
